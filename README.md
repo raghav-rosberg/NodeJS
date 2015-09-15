@@ -20,6 +20,7 @@ Instructions to run:
 -------------------
 
 - NodeJS-BasicExpress 
+----------------------
   1. Open commandprompt
   2. Nvigate to the "NodeJS-BasicExpress" app folder
   3. execute "node index.js"
